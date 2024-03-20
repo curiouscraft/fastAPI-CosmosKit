@@ -1,0 +1,16 @@
+[
+    {
+        "methodType": "GET",
+        "apiName": "api/1.0/signature",
+        "fileName": "SignatureService",
+        "serviceName": "signatureService",
+        "functionName": "getGenerateSignature"
+    },
+    {
+        "methodType": "POST",
+        "apiName": "api/1.0/signature",
+        "fileName": "SignatureService",
+        "serviceName": "signatureService",
+        "functionName": "postGenerateSignature"
+    }
+]
